@@ -23,9 +23,4 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak tasarlanmış bir film ve dizi s
 <h2>Ekran Görüntüsü</h2>
 
 ![](ekran.gif)
-# MovieWebPage
-# MovieWebPage
-# MovieWebPage
-# MovieWebPage
-# MovieWebPage
-# MovieWebPage
+
